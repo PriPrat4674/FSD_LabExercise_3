@@ -20,5 +20,6 @@ RecruitmentHub is a premium, single-page registration platform designed for high
 - **Dependencies:** Canvas Confetti (Micro-library for success animations)
 
 ## Screenshots
+<img width="1536" height="730" alt="Landing Page" src="https://github.com/user-attachments/assets/d219405e-6c73-4c25-bc46-25a620a390b6" />
 
-![Landing Page](screenshots\Landing Page.png)
+
